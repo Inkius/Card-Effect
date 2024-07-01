@@ -1,3 +1,3 @@
 <template>
-    <MagicCard></MagicCard>
+    <MagicCard opacity=.9 size=3></MagicCard>
 </template>
